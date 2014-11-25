@@ -1,0 +1,197 @@
+<GoProject id="1" version="1.0" client="Camtasia 2:mac 2.6.2 (86553)" >
+ <Project id="2" editRate="30/1" version="3.0" >
+  <Author></Author>
+  <Comment></Comment>
+  <System></System>
+  <SourceBin id="3"  >
+    <Source id="4" src="./recordings/1416952519.049600/Rec 11-25-14 15.cmrec" lastMod="20141125T212908" rect="(0,0,0,0)" >
+      <SourceTrack range="(0,6219)" type="2" editRate="30/1" trackRect="(0,0,0,0)" sampleRate="44100/1" bitDepth="0" numChannels="2" filename="camera.mov" metaData="" />
+    </Source>
+    <Source id="5" src="./recordings/1416952519.090347/Rec 11-25-14 16.cmrec" lastMod="20141125T213208" rect="(0,0,0,0)" >
+      <SourceTrack range="(0,4247)" type="2" editRate="30/1" trackRect="(0,0,0,0)" sampleRate="44100/1" bitDepth="0" numChannels="2" filename="camera.mov" metaData="" />
+    </Source>
+    <Source id="6" src="./recordings/1416952519.091652/Rec 11-25-14 17.cmrec" lastMod="20141125T213833" rect="(0,0,0,0)" >
+      <SourceTrack range="(0,10215)" type="2" editRate="30/1" trackRect="(0,0,0,0)" sampleRate="44100/1" bitDepth="0" numChannels="2" filename="camera.mov" metaData="" />
+    </Source>
+    <Source id="7" src="./recordings/1416952519.092405/Rec 11-25-14 27.cmrec" lastMod="20141125T214806" rect="(0,0,0,0)" >
+      <SourceTrack range="(0,3668)" type="2" editRate="30/1" trackRect="(0,0,0,0)" sampleRate="44100/1" bitDepth="0" numChannels="2" filename="camera.mov" metaData="" />
+    </Source>
+    <Source id="8" src="./recordings/1416952519.093155/Rec 11-25-14 28.cmrec" lastMod="20141125T215120" rect="(0,0,0,0)" >
+      <SourceTrack range="(0,4428)" type="2" editRate="30/1" trackRect="(0,0,0,0)" sampleRate="44100/1" bitDepth="0" numChannels="2" filename="camera.mov" metaData="" />
+    </Source>
+  </SourceBin>
+  <Timeline id="9"  >
+   <Attributes>
+    <Attribute id="10" value="640" name="width"/>
+    <Attribute id="11" value="400" name="height"/>
+    <Attribute id="12" value="(0,0,0,255)" name="backgroundColor"/>
+   </Attributes>
+    <GenericMixer id="13"  name="UnifiedMixer">
+     <Tracks>
+      <GenericTrack id="14"  >
+       <Attributes>
+        <Attribute id="15" value="" name="ident"/>
+        <Attribute id="16" value="0" name="audioMuted"/>
+        <Attribute id="17" value="0" name="videoHidden"/>
+       </Attributes>
+       <MetaData>
+        <entry key="IsLocked" val="False"/>
+        <entry key="trackHeight" val="54"/>
+       </MetaData>
+       <Medias>
+        <AMFile id="18" start="0" duration="5618" scalar="1/1" mediaStart="0/1" mediaDuration="5618/1" trackNumber="0" src="4" channelNumber="0,1" >
+         <Parameters>
+          <InterpolatingParam id="19" interp="linr"  time="0/1" value="1" leadInLength="0/1"  name="volume"/>
+          <Parameter id="20"  name="captions"/>
+         </Parameters>
+         <Attributes>
+          <Attribute id="21" value="Rec 11-25-14 15" name="ident"/>
+          <Attribute id="22" value="44100" name="sampleRate"/>
+          <Attribute id="23" value="0" name="bitDepth"/>
+          <Attribute id="24" value="1" name="gain"/>
+          <Attribute id="25" value="0" name="mixToMono"/>
+         </Attributes>
+         <MetaData>
+          <entry key="clipSpeedAttribute" val="1" type="bool"/>
+          <entry key="effectApplied" val="none"/>
+         </MetaData>
+        </AMFile>
+        <AMFile id="26" start="5618" duration="3911" scalar="1/1" mediaStart="0/1" mediaDuration="3911/1" trackNumber="0" src="5" channelNumber="0,1" >
+         <Parameters>
+          <InterpolatingParam id="27" interp="linr"  time="0/1" value="1" leadInLength="0/1"  name="volume"/>
+          <Parameter id="28"  name="captions"/>
+         </Parameters>
+         <Attributes>
+          <Attribute id="29" value="Rec 11-25-14 16" name="ident"/>
+          <Attribute id="30" value="44100" name="sampleRate"/>
+          <Attribute id="31" value="0" name="bitDepth"/>
+          <Attribute id="32" value="1" name="gain"/>
+          <Attribute id="33" value="0" name="mixToMono"/>
+         </Attributes>
+         <MetaData>
+          <entry key="clipSpeedAttribute" val="1" type="bool"/>
+          <entry key="effectApplied" val="none"/>
+         </MetaData>
+        </AMFile>
+        <AMFile id="34" start="9529" duration="9792" scalar="1/1" mediaStart="0/1" mediaDuration="9792/1" trackNumber="0" src="6" channelNumber="0,1" >
+         <Parameters>
+          <InterpolatingParam id="35" interp="linr"  time="0/1" value="1" leadInLength="0/1"  name="volume"/>
+          <Parameter id="36"  name="captions"/>
+         </Parameters>
+         <Attributes>
+          <Attribute id="37" value="Rec 11-25-14 17" name="ident"/>
+          <Attribute id="38" value="44100" name="sampleRate"/>
+          <Attribute id="39" value="0" name="bitDepth"/>
+          <Attribute id="40" value="1" name="gain"/>
+          <Attribute id="41" value="0" name="mixToMono"/>
+         </Attributes>
+         <MetaData>
+          <entry key="clipSpeedAttribute" val="1" type="bool"/>
+          <entry key="effectApplied" val="none"/>
+         </MetaData>
+        </AMFile>
+        <AMFile id="42" start="19321" duration="3330" scalar="1/1" mediaStart="0/1" mediaDuration="3330/1" trackNumber="0" src="7" channelNumber="0,1" >
+         <Parameters>
+          <InterpolatingParam id="43" interp="linr"  time="0/1" value="1" leadInLength="0/1"  name="volume"/>
+          <Parameter id="44"  name="captions"/>
+         </Parameters>
+         <Attributes>
+          <Attribute id="45" value="Rec 11-25-14 27" name="ident"/>
+          <Attribute id="46" value="44100" name="sampleRate"/>
+          <Attribute id="47" value="0" name="bitDepth"/>
+          <Attribute id="48" value="1" name="gain"/>
+          <Attribute id="49" value="0" name="mixToMono"/>
+         </Attributes>
+         <MetaData>
+          <entry key="clipSpeedAttribute" val="1" type="bool"/>
+          <entry key="effectApplied" val="none"/>
+         </MetaData>
+        </AMFile>
+        <AMFile id="50" start="22651" duration="4920" scalar="10/9" mediaStart="0/1" mediaDuration="4428/1" trackNumber="0" src="8" channelNumber="0,1" >
+         <Parameters>
+          <InterpolatingParam id="51" interp="linr"  time="0/1" value="1" leadInLength="0/1"  name="volume"/>
+          <Parameter id="52"  name="captions"/>
+         </Parameters>
+         <Attributes>
+          <Attribute id="53" value="Rec 11-25-14 28" name="ident"/>
+          <Attribute id="54" value="44100" name="sampleRate"/>
+          <Attribute id="55" value="0" name="bitDepth"/>
+          <Attribute id="56" value="1" name="gain"/>
+          <Attribute id="57" value="0" name="mixToMono"/>
+         </Attributes>
+         <MetaData>
+          <entry key="clipSpeedAttribute" val="1" type="bool"/>
+          <entry key="effectApplied" val="none"/>
+         </MetaData>
+        </AMFile>
+       </Medias>
+      </GenericTrack>
+      <GenericTrack id="58"  >
+       <Attributes>
+        <Attribute id="59" value="" name="ident"/>
+        <Attribute id="60" value="0" name="audioMuted"/>
+        <Attribute id="61" value="0" name="videoHidden"/>
+       </Attributes>
+       <MetaData>
+        <entry key="IsLocked" val="False"/>
+        <entry key="trackHeight" val="54"/>
+       </MetaData>
+       <Medias>
+       </Medias>
+      </GenericTrack>
+      <GenericTrack id="62"  >
+       <Attributes>
+        <Attribute id="63" value="" name="ident"/>
+        <Attribute id="64" value="0" name="audioMuted"/>
+        <Attribute id="65" value="0" name="videoHidden"/>
+       </Attributes>
+       <MetaData>
+        <entry key="IsLocked" val="False"/>
+        <entry key="trackHeight" val="54"/>
+       </MetaData>
+       <Medias>
+       </Medias>
+      </GenericTrack>
+     </Tracks>
+    </GenericMixer>
+   <CaptionAttributes id="66"  >
+    <Attribute id="67" value="1" name="captionsEnabled"/>
+    <Attribute id="68" value="Arial" name="captionsFontName"/>
+    <Attribute id="69" value="32" name="captionsFontSize"/>
+    <Attribute id="70" value="(0,0,0,204)" name="captionsBackgroundColor"/>
+    <Attribute id="71" value="(255,255,255,255)" name="captionsForegroundColor"/>
+    <Attribute id="72" value="en" name="lang"/>
+    <Attribute id="73" value="0" name="captionsAlignment"/>
+    <Attribute id="74" value="1" name="captionsDefaultFontSize"/>
+    <Attribute id="75" value="0.5" name="captionsOpacity"/>
+    <Attribute id="76" value="1" name="captionsBackgroundEnabled"/>
+    <Attribute id="77" value="1" name="captionsBackgroundOnlyAroundText"/>
+   </CaptionAttributes>
+   <Parameters>
+    <VectorParam id="78"  name="eyePosition">
+     <InterpolatingParam id="79" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="80" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="81" interp="linr"  time="0/1" value="3000" leadInLength="0/1"  />
+    </VectorParam>
+    <VectorParam id="82"  name="eyeLookAtPosition">
+     <InterpolatingParam id="83" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="84" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="85" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+    </VectorParam>
+    <VectorParam id="86"  name="eyeUpVector">
+     <InterpolatingParam id="87" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+     <InterpolatingParam id="88" interp="linr"  time="0/1" value="1" leadInLength="0/1"  />
+     <InterpolatingParam id="89" interp="linr"  time="0/1" value="0" leadInLength="0/1"  />
+    </VectorParam>
+    <InterpolatingParam id="90" interp="linr"  time="0/1" value="0" leadInLength="0/1"  name="fov"/>
+    <InterpolatingParam id="91" interp="linr"  time="0/1" value="1.5" leadInLength="0/1"  name="nearClipDistance"/>
+    <InterpolatingParam id="92" interp="linr"  time="0/1" value="6000" leadInLength="0/1"  name="farClipDistance"/>
+   </Parameters>
+   <MetaData>
+   </MetaData>
+  </Timeline>
+ </Project>
+ <ActionBin id="93"   name="actionBin"/>
+ <ActionBin id="94"   name="sfActionBin"/>
+ <ActionBin id="95"   name="audioActionBin"/>
+</GoProject>
